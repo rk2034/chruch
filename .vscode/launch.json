@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "npm: deploy",
+            "runtimeExecutable": "npm",
+            "runtimeArgs": [
+                "run",
+                "deploy"
+            ],
+            "cwd": "${workspaceFolder}",
+            "internalConsoleOptions": "neverOpen"
+        }
+    ]
+}
