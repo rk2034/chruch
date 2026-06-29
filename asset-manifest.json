@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/chruch/static/css/main.62e216bf.css",
-    "main.js": "/chruch/static/js/main.3f212311.js",
+    "main.js": "/chruch/static/js/main.b682255e.js",
     "static/js/453.91b3c5e8.chunk.js": "/chruch/static/js/453.91b3c5e8.chunk.js",
     "index.html": "/chruch/index.html",
     "main.62e216bf.css.map": "/chruch/static/css/main.62e216bf.css.map",
-    "main.3f212311.js.map": "/chruch/static/js/main.3f212311.js.map",
+    "main.b682255e.js.map": "/chruch/static/js/main.b682255e.js.map",
     "453.91b3c5e8.chunk.js.map": "/chruch/static/js/453.91b3c5e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62e216bf.css",
-    "static/js/main.3f212311.js"
+    "static/js/main.b682255e.js"
   ]
 }
